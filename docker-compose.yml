@@ -6,7 +6,7 @@ services:
       - redis
     environment:
       APP_URL: 'http://localhost:3000'
-      APP_SECRET: 'APP_SECRET=REPLACE_WITH_LONG_SECRET_jidhiudhuidhuidhid'
+      APP_SECRET: 'eadjauio783y7823489h2uohuwekhb97283gh78gr823rwq98y2jh92_jidhiudhuidhuidhid'
       DATABASE_URL: 'postgresql://docmost:suisseradabahia@db:5432/docmost?schema=public'
       REDIS_URL: 'redis://redis:6379'
     ports:
